@@ -1,0 +1,13 @@
+# pratikum 3 - tipe data, variabel,dan operator 
+
+Nama : Alfarizki Aprilia Putri 
+
+Kelas : TI.24.A5
+
+NIM : 312410455
+
+Mata Kuliah : Bahasa pemrograman 
+
+
+## Mencari Bilangan Terbesar dari bilangan yang di inputkan 
+program ini menetukan bilangan terbesar dari bilangan yang di inputkan hingga input '0' . program ini menggunakan loop 'while' dan kondidi 'if' untuk memperbarui nilai terbesar yang di temukan.
