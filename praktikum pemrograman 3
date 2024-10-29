@@ -1,18 +1,18 @@
 # Praktikum 3 - tipe data, variabel,dan operator 
 
-git Nama : Alfarizki Aprilia Putri 
+Nama : Alfarizki Aprilia Putri 
 
-git Kelas : TI.24.A5
+Kelas : TI.24.A5
 
-git NIM : 312410455
+NIM : 312410455
 
-git Mata Kuliah : Bahasa pemrograman 
+Mata Kuliah : Bahasa pemrograman 
 
 
-git ## Mencari Bilangan Terbesar dari bilangan yang di inputkan 
-git program ini menetukan bilangan terbesar dari bilangan yang di inputkan hingga input '0' . program ini menggunakan loop 'while' dan kondidi 'if' untuk memperbarui nilai terbesar yang di temukan.
+## Mencari Bilangan Terbesar dari bilangan yang di inputkan 
+program ini menetukan bilangan terbesar dari bilangan yang di inputkan hingga input '0' . program ini menggunakan loop 'while' dan kondidi 'if' untuk memperbarui nilai terbesar yang di temukan.
 
-git # Flowchart Program 
+# Flowchart Program 
 ![foto](https://github.com/aprilia55/photo/blob/6df3c206047bcad362d898f5aa53dfc97d3816aa/README.md)
 
 ## Kode program 
